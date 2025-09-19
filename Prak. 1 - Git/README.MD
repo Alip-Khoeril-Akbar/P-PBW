@@ -25,20 +25,20 @@ Materi yang dipelajari antara lain:
 1. **Inisialisasi Git**  
     git init
 
-2. **Menambah Repository**
+2. **Menambah Repository**  
     git remote add origin https://github.com/username/my-project.git
 
-3. **Menambah Semua Perubahan**
-   git add .
+3. **Menambah Semua Perubahan**  
+    git add .
 
-4. **Membuat Commit Baru**
+4. **Membuat Commit Baru**  
     git commit -m "Mnambahkan index.html"
 
-5. **Mengganti Nama Branch**
-    git branch -m master main   
+5. **Mengganti Branch**  
+    git branch -m master main
 
-6. **Push Commit**
-    git push origin main
-    
+6. **Push Commit**  
+    git push origin main
+
 ## Screenshot
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/21905811-231d-4f3a-bd36-c2341542c095" />
