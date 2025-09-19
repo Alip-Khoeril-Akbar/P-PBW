@@ -3,7 +3,7 @@
 ## Identitas
 - **Nama**: Alip Khoeril Akbar  
 - **NPM**: 4523210009  
-- **Mata Kuliah**: Praktikum Git Dasar  
+- **Mata Kuliah**: Praktikum Pemrograman Berbasis Web  
 
 ---
 
@@ -22,7 +22,22 @@ Materi yang dipelajari antara lain:
 ---
 
 ## Langkah Praktikum
-1. **Membuat folder proyek**  
-   ```bash
-   mkdir praktikum1-git
-   cd praktikum1-git
+1. **Inisialisasi Git**  
+    git init
+
+2. **Menambah Repository**
+    git remote add origin https://github.com/username/my-project.git
+
+3. **Menambah Semua Perubahan**
+   git add .
+
+4. **Membuat Commit Baru**
+   git commit -m "Mnambahkan index.html"
+
+5. **Mengganti Nama Branch**
+   git branch -m master main   
+
+6. **Push Commit**
+   git push origin main
+    
+## Screenshot
