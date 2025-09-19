@@ -29,15 +29,15 @@ Materi yang dipelajari antara lain:
     git remote add origin https://github.com/username/my-project.git
 
 3. **Menambah Semua Perubahan**
-   git add .
+    git add .
 
 4. **Membuat Commit Baru**
-   git commit -m "Mnambahkan index.html"
+ git commit -m "Mnambahkan index.html"
 
 5. **Mengganti Nama Branch**
-   git branch -m master main   
+    git branch -m master main   
 
 6. **Push Commit**
-   git push origin main
+    git push origin main
     
 ## Screenshot
