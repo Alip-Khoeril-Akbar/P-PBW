@@ -44,4 +44,5 @@
 
 ### Screenshot
 <img width="1920" height="1080" alt="Screenshot 2025-09-26 092342" src="https://github.com/user-attachments/assets/7d4b9280-8e25-47c1-913c-c203e998914d" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-26 093050" src="https://github.com/user-attachments/assets/11678742-4e60-4f2d-a81f-33a535838164" />
 
